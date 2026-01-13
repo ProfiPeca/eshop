@@ -1,0 +1,4 @@
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\UI2\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\UI2\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\UI2\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\UI2\obj\Debug\net9.0-windows\UI2_MarkupCompile.cache
