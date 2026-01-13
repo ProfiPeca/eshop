@@ -1,3 +1,5 @@
+using MySql.Data.MySqlClient;
+
 public class OrderItemGateway : TableGateway
 {
     public OrderItemGateway(MySqlConnection conn) : base(conn) { }

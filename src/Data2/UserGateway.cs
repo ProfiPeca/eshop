@@ -1,3 +1,5 @@
+using MySql.Data.MySqlClient;
+
 public class UserGateway : TableGateway
 {
     public UserGateway(MySqlConnection conn) : base(conn) { }

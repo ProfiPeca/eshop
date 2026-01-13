@@ -1,7 +1,7 @@
 <Window x:Class="Eshop.UI.ReportWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Report – objednávky zákazníkù"
+        Title="Report: objednavky zakazniku"
         Height="400" Width="700"
         WindowStartupLocation="CenterScreen">
 
@@ -11,7 +11,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <Button Content="Naèíst report"
+        <Button Content="Nacist report"
                 Width="150"
                 Height="30"
                 Click="Load_Click"/>
@@ -23,11 +23,11 @@
                   Margin="0,10,0,0">
 
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Zákazník" Binding="{Binding CustomerName}"/>
-                <DataGridTextColumn Header="Poèet objednávek" Binding="{Binding OrderCount}"/>
+                <DataGridTextColumn Header="Zakaznik" Binding="{Binding CustomerName}"/>
+                <DataGridTextColumn Header="Pocet objednavek" Binding="{Binding OrderCount}"/>
                 <DataGridTextColumn Header="Celkem utraceno" Binding="{Binding TotalSpent}"/>
-                <DataGridTextColumn Header="První objednávka" Binding="{Binding FirstOrder}"/>
-                <DataGridTextColumn Header="Poslední objednávka" Binding="{Binding LastOrder}"/>
+                <DataGridTextColumn Header="Prvni objednavka" Binding="{Binding FirstOrder}"/>
+                <DataGridTextColumn Header="Posledni objednavka" Binding="{Binding LastOrder}"/>
             </DataGrid.Columns>
         </DataGrid>
     </Grid>

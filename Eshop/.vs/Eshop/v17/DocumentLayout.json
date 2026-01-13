@@ -1,12 +1,251 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\Eshop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD119E5-FE08-4C3A-9568-3617FC7C42D0}|..\\src\\Data2\\Data2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\data2\\productgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD119E5-FE08-4C3A-9568-3617FC7C42D0}|..\\src\\Data2\\Data2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\data2\\orderitemgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD119E5-FE08-4C3A-9568-3617FC7C42D0}|..\\src\\Data2\\Data2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\data2\\ordergateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\jsonimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\csvimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\importwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI\\ImportWindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\importwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C07E98-DB83-4282-A9DD-7D1DB99D2E9A}|..\\src\\UI2\\UI2.csproj|c:\\users\\cermy\\desktop\\pajdn\\pvrdbms\\e_shop d1\\eshop\\eshop\\src\\ui2\\ui2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\src\\UI2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T11:13:42.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductGateway.cs",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\Data2\\ProductGateway.cs",
+              "RelativeDocumentMoniker": "..\\src\\Data2\\ProductGateway.cs",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\Data2\\ProductGateway.cs",
+              "RelativeToolTip": "..\\src\\Data2\\ProductGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:57:03.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItemGateway.cs",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\Data2\\OrderItemGateway.cs",
+              "RelativeDocumentMoniker": "..\\src\\Data2\\OrderItemGateway.cs",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\Data2\\OrderItemGateway.cs",
+              "RelativeToolTip": "..\\src\\Data2\\OrderItemGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:57:01.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderGateway.cs",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\Data2\\OrderGateway.cs",
+              "RelativeDocumentMoniker": "..\\src\\Data2\\OrderGateway.cs",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\Data2\\OrderGateway.cs",
+              "RelativeToolTip": "..\\src\\Data2\\OrderGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T10:56:58.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonImporter.cs",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\JsonImporter.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\JsonImporter.cs",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\JsonImporter.cs",
+              "RelativeToolTip": "..\\src\\UI2\\JsonImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:12:44.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CsvImporter.cs",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\CsvImporter.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\CsvImporter.cs",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\CsvImporter.cs",
+              "RelativeToolTip": "..\\src\\UI2\\CsvImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:10:21.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\MainWindow.xaml",
+              "RelativeToolTip": "..\\src\\UI2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-13T09:06:51.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\ReportWindow.xaml",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\ReportWindow.xaml",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\ReportWindow.xaml",
+              "RelativeToolTip": "..\\src\\UI2\\ReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-13T09:05:48.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\OrderWindow.xaml",
+              "RelativeToolTip": "..\\src\\UI2\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-13T08:41:25.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\ProductWindow.xaml",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\ProductWindow.xaml",
+              "RelativeToolTip": "..\\src\\UI2\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-13T08:21:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\LoginWindow.xaml",
+              "RelativeToolTip": "..\\src\\UI2\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-13T08:05:23.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UI2.csproj",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\UI2.csproj",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\UI2.csproj",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\UI2.csproj",
+              "RelativeToolTip": "..\\src\\UI2\\UI2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T07:02:59.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\ImportWindow.xaml",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\ImportWindow.xaml",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\ImportWindow.xaml",
+              "RelativeToolTip": "..\\src\\UI2\\ImportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-13T07:00:23.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI\\ImportWindow.xaml",
+              "RelativeDocumentMoniker": "..\\src\\UI\\ImportWindow.xaml",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI\\ImportWindow.xaml",
+              "RelativeToolTip": "..\\src\\UI\\ImportWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-13T06:54:09.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\ImportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\src\\UI2\\ImportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cermy\\Desktop\\Pajdn\\PVRDBMS\\e_shop D1\\eshop\\eshop\\src\\UI2\\ImportWindow.xaml.cs",
+              "RelativeToolTip": "..\\src\\UI2\\ImportWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:53:15.515Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

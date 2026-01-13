@@ -11,7 +11,7 @@
                 Margin="0,5,0,10"
                 Click="ImportCsv_Click"/>
 
-        <TextBlock Text="Import JSON ? Zákazníci" FontWeight="Bold"/>
+        <TextBlock Text="Import JSON ? ZakaznÃ­ci" FontWeight="Bold"/>
         <Button Content="Vybrat JSON"
                 Margin="0,5,0,10"
                 Click="ImportJson_Click"/>

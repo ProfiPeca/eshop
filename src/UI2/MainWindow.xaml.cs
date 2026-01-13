@@ -35,6 +35,10 @@ namespace Eshop.UI
 
                     MessageBox.Show(sb.ToString(), "Výsledek");
                 }
+                else if (SqlBox.Text == null)
+                {
+
+                }
                 else
                 {
                     int rows = cmd.ExecuteNonQuery();
@@ -45,6 +49,14 @@ namespace Eshop.UI
             {
                 MessageBox.Show(
                     "SQL chyba:\n" + ex.Message,
+                    "Chyba",
+                    MessageBoxButton.OK,
+                    MessageBoxImage.Error);
+            }
+            catch (Exception ex2)
+            {
+                MessageBox.Show(
+                    "SQL chyba:\n" + ex2.Message,
                     "Chyba",
                     MessageBoxButton.OK,
                     MessageBoxImage.Error);

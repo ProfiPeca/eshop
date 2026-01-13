@@ -37,20 +37,20 @@ namespace Eshop.UI
 
         private void ImportJson_Click(object sender, RoutedEventArgs e)
         {
-            var dlg = new OpenFileDialog { Filter = "JSON (*.json)|*.json" };
+            var dlg = new OpenFileDialog { Filter = "CSV (*.csv)|*.csv" };
             if (dlg.ShowDialog() == true)
             {
                 try
                 {
-                    var importer = new JsonImporter(
-                        new CustomerGateway(_connection));
+                    var importer = new CsvImporter(
+                        new ProductGateway(_connection));
                     importer.Import(dlg.FileName);
 
-                    StatusText.Text = "JSON import probìhl úspìšnì";
+                    StatusText.Text = "CSV import probìhl úspìšnì";
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Chyba JSON importu:\n" + ex.Message);
+                    MessageBox.Show("Chyba CSV importu:\n" + ex.Message);
                 }
             }
         }

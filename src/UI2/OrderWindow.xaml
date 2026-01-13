@@ -1,7 +1,7 @@
 <Window x:Class="Eshop.UI.OrderWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Vytvoøení objednávky" Height="500" Width="800"
+        Title="Vytvoreni objednavky" Height="500" Width="800"
         WindowStartupLocation="CenterScreen">
 
     <Grid Margin="10">
@@ -11,25 +11,23 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <!-- Zákazník -->
         <StackPanel Orientation="Horizontal">
-            <TextBlock Text="Zákazník:" VerticalAlignment="Center"/>
+            <TextBlock Text="Zakaznik:" VerticalAlignment="Center"/>
             <ComboBox x:Name="CustomerBox" Width="300" Margin="10,0,0,0"
                       DisplayMemberPath="Name"/>
         </StackPanel>
 
-        <!-- Produkty -->
         <DataGrid Grid.Row="1" x:Name="ProductGrid"
                   AutoGenerateColumns="False"
                   CanUserAddRows="False">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Produkt" Binding="{Binding Name}" IsReadOnly="True"/>
                 <DataGridTextColumn Header="Cena" Binding="{Binding Price}" IsReadOnly="True"/>
-                <DataGridTextColumn Header="Množství" Binding="{Binding Quantity}"/>
+                <DataGridTextColumn Header="Mnozstvi" Binding="{Binding Quantity}"/>
             </DataGrid.Columns>
         </DataGrid>
 
-        <Button Grid.Row="2" Content="Vytvoøit objednávku"
+        <Button Grid.Row="2" Content="Vytvorit objednavku"
                 Height="35" Margin="0,10,0,0"
                 Click="CreateOrder_Click"/>
     </Grid>

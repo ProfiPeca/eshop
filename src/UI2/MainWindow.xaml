@@ -11,7 +11,7 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Text="SQL příkaz:" FontWeight="Bold"/>
+        <TextBlock FontWeight="Bold" RenderTransformOrigin="0.504,1.384" Margin="0,0,0,364" Grid.RowSpan="2"><Run/><LineBreak/><Run/></TextBlock>
 
         <TextBox Grid.Row="1" x:Name="SqlBox"
                  AcceptsReturn="True"
@@ -23,24 +23,24 @@
             <TextBlock x:Name="StatusText" Margin="10,0,0,0"/>
         </StackPanel>
 
-		<StackPanel Orientation="Horizontal" Margin="0,5,0,0">
-			<Button Content="Execute SQL" Width="120" Click="Execute_Click"/>
-			<Button Content="Produkty" Width="120" Margin="5,0,0,0"
+        <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+            <Button Content="Execute SQL" Width="120" Click="Execute_Click"/>
+            <Button Content="Produkty" Width="120" Margin="5,0,0,0"
 					Click="Products_Click"/>
-		</StackPanel>
+        </StackPanel>
 
-		<Button Content="Objednávky" Width="120" Margin="5,0,0,0"
+        <Button Content="Objednavky" Width="67" Margin="150,0,0,0"
         Click="Orders_Click"/>
 
-		<Button Content="Reporty"
-        Width="120"
-        Margin="5,0,0,0"
+        <Button Content="Reporty"
+        Width="56"
+        Margin="300,0,0,0"
         Click="Reports_Click"/>
 
-		<Button Content="Import"
+        <Button Content="Import"
         Width="120"
-        Margin="5,0,0,0"
+        Margin="500,0,0,0"
         Click="Import_Click"/>
 
-	</Grid>
+    </Grid>
 </Window>
