@@ -1,5 +1,6 @@
 # ESHOP – databázová aplikace v C# a MySQL
 Autor-Petr Čermák
+---
 Tento projekt je školní databázová aplikace typu **ESHOP**, vytvořená v jazyce **C# (.NET 8, WPF)** s využitím **relační databáze MySQL** a návrhového vzoru **Table Gateway**.
 
 Projekt je navržen tak, aby byl:
