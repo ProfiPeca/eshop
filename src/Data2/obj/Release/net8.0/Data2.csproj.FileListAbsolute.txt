@@ -1,0 +1,16 @@
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\bin\Release\net8.0\Data2.deps.json
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\bin\Release\net8.0\Data2.dll
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\bin\Release\net8.0\Data2.pdb
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\bin\Release\net8.0\Domain2.dll
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\bin\Release\net8.0\Domain2.pdb
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\Data2.csproj.AssemblyReference.cache
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\Data2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\Data2.AssemblyInfoInputs.cache
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\Data2.AssemblyInfo.cs
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\Data2.csproj.CoreCompileInputs.cache
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\Data2.sourcelink.json
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\Data2.csproj.Up2Date
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\Data2.dll
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\refint\Data2.dll
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\Data2.pdb
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Data2\obj\Release\net8.0\ref\Data2.dll

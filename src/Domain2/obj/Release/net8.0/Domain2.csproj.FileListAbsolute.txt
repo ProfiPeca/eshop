@@ -1,0 +1,12 @@
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\bin\Release\net8.0\Domain2.deps.json
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\bin\Release\net8.0\Domain2.dll
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\bin\Release\net8.0\Domain2.pdb
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\obj\Release\net8.0\Domain2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\obj\Release\net8.0\Domain2.AssemblyInfoInputs.cache
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\obj\Release\net8.0\Domain2.AssemblyInfo.cs
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\obj\Release\net8.0\Domain2.csproj.CoreCompileInputs.cache
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\obj\Release\net8.0\Domain2.sourcelink.json
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\obj\Release\net8.0\Domain2.dll
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\obj\Release\net8.0\refint\Domain2.dll
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\obj\Release\net8.0\Domain2.pdb
+C:\Users\cermy\Desktop\Pajdn\PVRDBMS\e_shop D1\eshop\eshop\src\Domain2\obj\Release\net8.0\ref\Domain2.dll
