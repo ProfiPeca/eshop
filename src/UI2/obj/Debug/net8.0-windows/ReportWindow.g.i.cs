@@ -60,7 +60,7 @@ namespace Eshop.UI {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/UI2;V1.0.0.0;component/reportwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/UI2;component/reportwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ReportWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
