@@ -6,15 +6,15 @@
         WindowStartupLocation="CenterScreen">
 
     <StackPanel Margin="10">
-        <TextBlock Text="Import CSV ? Produkty" FontWeight="Bold"/>
+        <TextBlock Text="Import CSV Produkty" FontWeight="Bold"/>
         <Button Content="Vybrat CSV"
                 Margin="0,5,0,10"
                 Click="ImportCsv_Click"/>
 
-        <TextBlock Text="Import JSON ? Zakaznici" FontWeight="Bold"/>
-        <Button Content="Vybrat JSON"
+        <TextBlock Text="Import CSV Zakaznici" FontWeight="Bold"/>
+        <Button Content="Vybrat CSV"
                 Margin="0,5,0,10"
-                Click="ImportJson_Click"/>
+                Click="ImportCsvCustomer"/>
 
         <TextBlock x:Name="StatusText"/>
     </StackPanel>

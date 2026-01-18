@@ -35,7 +35,7 @@ namespace Eshop.UI
             }
         }
 
-        private void ImportJson_Click(object sender, RoutedEventArgs e)
+        private void ImportCsvCustomer(object sender, RoutedEventArgs e)
         {
             var dlg = new OpenFileDialog { Filter = "CSV (*.csv)|*.csv" };
             if (dlg.ShowDialog() == true)
@@ -43,8 +43,8 @@ namespace Eshop.UI
                 try
                 {
                     var importer = new CsvImporter(
-                        new ProductGateway(_connection));
-                    importer.Import(dlg.FileName);
+                        new CustomerGateway(_connection));
+                    importer.ImportCustomer(dlg.FileName);
 
                     StatusText.Text = "CSV import probìhl úspìšnì";
                 }

@@ -1,0 +1,7 @@
+{
+  "Host": "localhost",
+  "Database": "eshop",
+  "User": "root",
+  "Password": "student",
+  "Port": 3306
+}
